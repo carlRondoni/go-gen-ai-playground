@@ -1,6 +1,6 @@
 module github.com/carlRondoni/go-gen-ai-playground
 
-go 1.22.2
+go 1.22.5
 
 require (
 	github.com/google/generative-ai-go v0.11.2
